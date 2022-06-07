@@ -2,7 +2,7 @@
   margin: 0px;
   padding: 0px;
   -webkit-box-sizing: border-box;
-          box-sizing: border-box;
+  box-sizing: border-box;
   scroll-behavior: smooth;
 }
 
@@ -24,11 +24,11 @@ main {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: justify;
-      -ms-flex-pack: justify;
-          justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   width: 100%;
   height: auto;
   position: absolute;
@@ -42,11 +42,11 @@ main {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   color: #fff;
 }
 
@@ -93,11 +93,11 @@ main {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   background-image: url("https://www.eldiario.com.co/wp-content/uploads/2020/08/NOTA-1-FOTO-1-TIENDA-DE-BARRIO-scaled.jpg");
   background-size: cover;
   background-position-y: -100px;
@@ -124,8 +124,8 @@ main {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   margin-top: 15px;
 }
 
@@ -163,15 +163,15 @@ main {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   width: 100%;
   height: auto;
   padding: 50px;
@@ -195,34 +195,34 @@ main {
   display: flex;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
 }
 
 #second .second_cards .second_card {
   -webkit-box-flex: 1;
-      -ms-flex-positive: 1;
-          flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   padding: 15px;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   margin: 0px 10px;
 }
 
@@ -267,7 +267,7 @@ main {
   font-family: calibri light;
   margin-top: 25px;
   -ms-flex-item-align: start;
-      align-self: flex-start;
+  align-self: flex-start;
 }
 
 #third #third_cards {
@@ -276,15 +276,15 @@ main {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
-      -ms-flex-direction: row;
-          flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
 }
 
 #third #third_cards .third_cards_out {
@@ -292,11 +292,11 @@ main {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   margin-left: 30px;
 }
 
@@ -305,19 +305,19 @@ main {
   display: -ms-flexbox;
   display: flex;
   -webkit-box-pack: center;
-      -ms-flex-pack: center;
-          justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
   -webkit-box-align: center;
-      -ms-flex-align: center;
-          align-items: center;
+  -ms-flex-align: center;
+  align-items: center;
   -webkit-box-orient: vertical;
   -webkit-box-direction: normal;
-      -ms-flex-direction: column;
-          flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
   font-family: calibri;
   border-radius: 15px;
   -webkit-box-shadow: 0px 10px 13px -7px rgba(0, 0, 0, 0.2);
-          box-shadow: 0px 10px 13px -7px rgba(0, 0, 0, 0.2);
+  box-shadow: 0px 10px 13px -7px rgba(0, 0, 0, 0.2);
   margin: 15px;
   padding: 15px;
 }
@@ -326,13 +326,8 @@ main {
   width: 200px;
   height: 200px;
   -o-object-fit: cover;
-     object-fit: cover;
+  object-fit: cover;
   border-radius: 50%;
-}
-
-#third #third_cards .third_cards_out #Juanito {
-  -o-object-position: 0px 0px;
-     object-position: 0px 0px;
 }
 
 #third #third_cards .third_cards_out .third_card_name {
@@ -341,6 +336,74 @@ main {
 
 #third #third_cards .third_cards_out .third_card_text {
   margin-top: 10px;
+}
+
+/*Seccion opiniones*/
+
+#opiniones {
+  font-family: 'Segoe UI';
+  padding: 50px;
+  background: rgba(101, 105, 124, 0.2);
+}
+
+.contenedoropiniones {
+  display: flex;
+  flex-direction: row;
+}
+
+#tituloopiniones {
+  font-size: 32px;
+  font-weight: bold;
+  text-align: center;
+  padding: 0px 10px;
+  text-align: center;
+  color: #08123E;
+}
+
+.contenedoropiniones .seccion_opinion {
+  background-color: #fff;
+  margin: 1rem;
+  padding: 1rem;
+  text-align: center;
+  border: .1rem solid rgba(0, 0, 0, 0.2);
+  box-shadow: 0, 5rem, 1rem, rgba(0, 0, 0, 0.1);
+  flex-grow: 1;
+  border-radius: .5rem;
+}
+
+.contenedoropiniones .seccion_opinion .cliente img {
+  border-radius: 10px;
+  object-fit: cover;
+  height: 8rem;
+  width: 8rem;
+  margin-top: 2rem;
+}
+
+.contenedoropiniones .seccion_opinion .cliente h3 {
+  color: #08123E;
+  
+}
+
+.contenedoropiniones .seccion_opinion .cliente .calificacion_estrellas i {
+  color: #08123E;
+  font-size: 1.5rem;
+  padding: 1rem 0;
+}
+
+.contenedoropiniones .seccion_opinion .cliente .comentario {
+  color: #08123E;
+  font-size: 14px;
+  padding: 1rem;
+  text-align: justify;
+}
+
+.contenedoropiniones .seccion_opinion {
+  display: inline-block;
+  size: 20%;
+  /*   align-items: center;
+      justify-content: center;
+      flex-wrap: wrap;
+  */
 }
 
 @media (max-width: 600px) {
@@ -356,6 +419,7 @@ main {
     -webkit-transition: left .5s linear;
     transition: left .5s linear;
   }
+
   .hide {
     background: #083596;
     display: block;
@@ -368,61 +432,90 @@ main {
     -webkit-transition: left .5s linear;
     transition: left .5s linear;
   }
+
   .navbar {
     padding: 10px 10px;
     z-index: 3;
   }
+
   .navbar #navbar_button {
     display: block;
   }
+
   .navbar .navbar_item {
     display: block;
   }
+
   .banner {
     background-position-y: 0px;
   }
+
   .banner .banner_content #banner_title {
     line-height: 50px;
     font-size: 50px;
   }
+
   .banner .banner_content #banner_text {
     padding: 15px 0px;
     font-size: 14px;
     width: 75%;
     margin: auto;
   }
+
   #second {
     padding: 10px 10px;
   }
+
   #second .second_cards {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
+
   #second .second_cards .second_card {
     background: #f4f4f4;
     border-radius: 15px 0px 15px 15px;
   }
+
   #second .second_cards .second_card:nth-child(2n) {
     margin-top: 15px;
     margin-bottom: 15px;
   }
+
   #third {
     padding: 35px 35px;
   }
+
   #third #third_cards {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
   }
+
   #third #third_cards .third_cards_out {
     -webkit-box-orient: vertical;
     -webkit-box-direction: normal;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    -ms-flex-direction: column;
+    flex-direction: column;
     margin-left: 0px;
   }
+
+  #opiniones {
+    padding: 10px 10px;
+  }
+
+  .contenedoropiniones{
+    flex-direction: column;
+  }
+
+  .seccion_opinion:nth-child(2n) {
+    margin-top: 15px;
+    margin-bottom: 15px;
+  }
 }
+
 /*# sourceMappingURL=styles.css.map */
+
+
